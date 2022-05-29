@@ -17,13 +17,14 @@
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "url": "https://www.linkedin.com/in/julien-humbert-2388a271/",
     "icon": "fa-graduation-cap",
+    "target": "_blank"
   },
   {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
-    "target": _blank
+    "target": "_blank"
   }
 ]

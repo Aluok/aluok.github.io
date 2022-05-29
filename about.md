@@ -4,8 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! I'm Julien Humbert, a web developer from France.
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+// Current workplace
+// Ideas and interest
+// Twitter ? 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+//CONTACT
+
+
+
+
+### Thanks to
+This site is statically generated with [jekyll](https://github.com/jekyll/jekyll), using a base theme provided by [ashutosh2k12](https://github.com/ashutosh2k12) (available at [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog))
+
+A big thank you to the Jekyll contributor, and to [ashutosh2k12](https://github.com/ashutosh2k12)!
